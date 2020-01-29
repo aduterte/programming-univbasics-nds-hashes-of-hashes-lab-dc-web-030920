@@ -41,6 +41,7 @@ def naming_system
   #  Species
   # So, if we have the "Kingdom" node we should be able to "tunnel" into the
   # HoH all the way to Species!
-hoh = PORTION_1
-hoh
+hoh = {
+  kingdom: {}
+}
 end
