@@ -55,8 +55,7 @@ hoh = {
             label: "Genus",
             sub_category: {
               label: "Species",
-              sub_category: {
-                label: {},
+              sub_category: {}
               }
             }
           }
