@@ -47,7 +47,7 @@ hoh = {
     label: Phylum,
     sub_category: {
       label: Class
-    }
-  }
+    },
+  },
 }
 end
