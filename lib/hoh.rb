@@ -57,7 +57,7 @@ hoh = {
               label: "Species",
               sub_category: {
                 label: {}
-              }
+                }
               }
             }
           }
